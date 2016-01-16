@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CEB7228E0334CB11D6022D6BE51007BD0114F201",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B7CCA6A8C889ED4C803FBF307564FD139754E943" : 0,
+    "CEB7228E0334CB11D6022D6BE51007BD0114F201" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B59E966B-D0F8-4432-B3AA-926E168D1C3B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B7CCA6A8C889ED4C803FBF307564FD139754E943" : "..\/..\/addons\/ofxFX",
+    "CEB7228E0334CB11D6022D6BE51007BD0114F201" : "labs\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "labs",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "labs.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/patriciogonzalezvivo\/ofxFX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B7CCA6A8C889ED4C803FBF307564FD139754E943"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GTSouza\/ofGTSLabs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CEB7228E0334CB11D6022D6BE51007BD0114F201"
+    }
+  ]
+}
